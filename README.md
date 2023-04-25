@@ -8,19 +8,19 @@ You may only complete this challenge once. If your submission is incorrect for a
 
 ***
 
-### Stop 1: Sign up for Azure for Students! 
+### Step 1: Sign up for Azure for Students! 
 Navigate to the link below and sign up for Azure for Students. Students, get Azure for free courtesy of Microsoft Azure. Full-time college students are eligible for a free Azure account with $100 in credits.
 * How-To Tutorial: <a href="https://youtu.be/1blgs6KeA_A">https://youtu.be/1blgs6KeA_A</a>
 * Sign Up Link: <a href="https://hackp.ac/MSFT-Stop1">https://hackp.ac/MSFT-Stop1</a>
 * Take a photo of your dashboard once you've completed this step.
 
-### Stop 2: Create a GitHub repository!
+### Step 2: Create a GitHub repository!
 Navigate to GitHub and create a GitHub Repository.
 * How-To Tutorial: <a href="https://youtu.be/mK6Uo2qxUUM">https://youtu.be/mK6Uo2qxUUM</a>
 * Navigate to GitHub: <a href="https://hackp.ac/MSFT-Stop2">https://hackp.ac/MSFT-Stop2</a>
 * Save the link to your repo once you've completed this step. 
 
-### Stop 3: Deploy a Service to Azure! 
+### Step 3: Deploy a Service to Azure! 
 Using your Azure for Students subscription, deploy any Azure service. It’s incredibly easy to get started, with Quickstart Templates and user guides on Microsoft Docs. You can deploy any code you have from your Github repo directly into Azure as well.
 * How-To Tutorial:  <a href="https://youtu.be/BEYLnr5r1p4">https://youtu.be/BEYLnr5r1p4</a>
 * Microsoft Tutorial: <a href="https://hackp.ac/MSFT-AzureDocs">https://hackp.ac/MSFT-AzureDocs</a>
